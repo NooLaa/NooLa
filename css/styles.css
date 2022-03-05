@@ -1,0 +1,101 @@
+body {
+  margin: 0px;
+  font-family: 'Merriweather', serif;
+    background-color: #EFFFFD;
+}
+
+h1 {
+  margin: 0px;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-seri
+
+}
+
+h3 {
+  font-family: 'Montserrat', sans-seri
+}
+
+.top-container {
+  background-color: #EFFFFD;
+  position: relative;
+  padding-top: 100px;
+  text-align: center;
+}
+
+.middle-container {
+  text-align: center;
+  position:relative;
+  background-color: #EFEFEF;
+padding: 50px;
+
+}
+
+.bottom-container {
+background-color: #EFFFFD;
+position: relative;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 800px;
+  bottom:50px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 800px
+}
+
+span {
+  text-decoration: underline;
+}
+
+.hello {
+  color: #00C897;
+}
+
+.skills {
+padding: 50px;
+  text-align: center;
+  background-color: #EEEEEE;
+}
+
+hr {
+margin: 0px;
+}
+
+.wrap {
+  border-radius: 50%;
+  height:500px;
+
+}
+
+.gaming {
+  height: 500px;
+  border-radius: 50%;
+}
+
+.contact-me {
+  text-align: center;
+  background-color: #EFFFFD;
+  padding: 50px;
+}
+
+
+
+.footer-link1 {
+position :absolute;
+left: 47%;
+}
+.footer-link2 {
+position :absolute;
+left: 37%;
+}
+
+.footer-link3 {
+position :absolute;
+left: 57%;
+}
